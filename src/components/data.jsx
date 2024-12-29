@@ -36,7 +36,7 @@ const projects = [
     type: "School Project",
     desc: "Full-Stack Website that sells electronic devices such as phones, computers, laptops, and TV's.",
     img: "/images/projects/KiwiElectronics.png",
-    link: "https://calculator-mobi.netlify.app/",
+    link: "https://kiwielectronics.azurewebsites.net/",
     tag: ["All", "Full-Stack", "JavaScript", "Python", "Flask", "MySQL"],
   },
   {
