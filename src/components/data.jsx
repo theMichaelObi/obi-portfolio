@@ -6,7 +6,7 @@ const projects = [
     type: "Professional Project",
     desc: "My official portfolio website for business. This website includes a short description of me and a showcase of all of my projects. It also includes a contact form for questions, concerns, or any collaboration opportunities.",
     img: "/images/projects/Portfolio.png",
-    link: "https://vizvault.azurewebsites.net/",
+    link: "https://michael-obi.vercel.app/",
     tag: ["All", "Front-End", "JavaScript", "React","Next.JS", "Node.JS"],
   },
   {
