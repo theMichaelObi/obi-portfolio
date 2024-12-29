@@ -18,10 +18,10 @@ const AboutPage = () => {
                 <h1 className="font-bold text-2xl">ABOUT ME</h1>
                 { /* BIOGRAPHY DESCRIPTION */}
                 <p className="text-md lg:text-lg">
-                  Hello, my name is Michael Obi and i'm a Web Developer from Austin, Texas. I
-                  graduated from the University of Texas at San Antonio with a Bachelors Degree 
-                  in Computer Science. My current focus is to create digital solutions to complex 
-                  problems. I look forward to expanding my knowledge and understanding of the tech industry. 
+                  Hello, my name is Michael Obi and i am a Web Developer from Austin, Texas. I
+                  graduated from the University of Texas at San Antonio with a Bachelors Degree
+                  in Computer Science. My current focus is to create digital solutions to complex
+                  problems. I look forward to expanding my knowledge and understanding of the tech industry.
                 </p>
               </div>
               { /* SKILLS */}
@@ -77,7 +77,7 @@ const AboutPage = () => {
         </Layout>
       </main>
     </>
-  );
-};
+  )
+}
 
 export default AboutPage;
