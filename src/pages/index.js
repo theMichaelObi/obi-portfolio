@@ -21,7 +21,7 @@ export default function Home() {
               <h1 className="text-4xl md:text-8xl font-bold w-full">Michael Obi</h1>
               {/* DESCRIPTION */}
               <p className="md:text-xl w-full">
-                Web Developer from Austin, TX
+                Software Developer from Austin, TX
               </p>
               {/* RESUME BUTTON */}
               <div className="flex w-full">

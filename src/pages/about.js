@@ -18,7 +18,7 @@ const AboutPage = () => {
                 <h1 className="font-bold text-2xl">ABOUT ME</h1>
                 { /* BIOGRAPHY DESCRIPTION */}
                 <p className="text-md lg:text-lg">
-                  Hello, my name is Michael Obi and i am a Web Developer from Austin, Texas. I
+                  Hello, my name is Michael Obi and I am a Software Developer from Austin, Texas. I
                   graduated from the University of Texas at San Antonio with a Bachelors Degree
                   in Computer Science. My current focus is to create digital solutions to complex
                   problems. I look forward to expanding my knowledge and understanding of the tech industry.

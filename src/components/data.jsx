@@ -53,7 +53,7 @@ const projects = [
 
 const experiences = [
   {
-    title: "Web Developer Intern",
+    title: "Software Developer Intern",
     company: "Arctex",
     description: `Worked with a startup company to remodel their 3D Company Website and create their new FormHelper Chrome extension.
     Implemented different frameworks such as React, Node.js, and Three.js. Collaborated with other software developers 
