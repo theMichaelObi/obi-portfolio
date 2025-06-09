@@ -30,10 +30,6 @@ const Footer = () => {
                         <motion.a href="mailto:michael.u.obi1@gmail.com" className="w-5 h-5 lg:w-6 lg:h-6" whileHover={{ y: -2 }} whileTap={{ scale: 0.9 }}>
                             <EmailIcon />
                         </motion.a>
-                        {/* PHONE */}
-                        <motion.a href="tel:+15127997531" className="w-5 h-5 lg:w-6 lg:h-6" whileHover={{ y: -2 }} whileTap={{ scale: 0.9 }}>
-                            <PhoneIcon />
-                        </motion.a>
                     </div>
                 </div>
             </Layout>
