@@ -21,11 +21,11 @@ export default function App({ Component, pageProps }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main className={`${inter.variable} font-inter bg-white w-full min-h-screen`}>
-        <TransitionProvider>
+        {/* <TransitionProvider> */}
           <Navbar />
           <Component {...pageProps} />
           <Footer />
-        </TransitionProvider>
+        {/* </TransitionProvider> */}
       </main>
     </>
   )

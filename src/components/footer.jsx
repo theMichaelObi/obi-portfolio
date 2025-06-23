@@ -10,7 +10,6 @@ const Footer = () => {
     return (
         <footer className="h-24 w-full flex-col bg-white mt-4">
             <hr className="border-t border-black w-full max-w-[2170px] mx-auto h-[1px]" />
-            <Layout className="h-full">
                 <div className="h-full w-full flex items-center justify-between px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48 text-md">
                     {/* LOCATION */}
                     <span className="hidden lg:block md:text-sm uppercase">Austin, Texas</span>
@@ -32,7 +31,6 @@ const Footer = () => {
                         </motion.a>
                     </div>
                 </div>
-            </Layout>
         </footer>
     )
 }

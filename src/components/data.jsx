@@ -7,7 +7,7 @@ const projects = [
     desc: "My official portfolio website for business. This website includes a short description of me and a showcase of all of my projects. It also includes a contact form for questions, concerns, or any collaboration opportunities.",
     img: "/images/projects/Portfolio.png",
     link: "https://michael-obi.vercel.app/",
-    tag: ["All", "Front-End", "JavaScript", "React","Next.JS", "Node.JS"],
+    tag: ["All", "Front-End", "JavaScript", "React", "Next.JS", "Node.JS"],
   },
   {
     id: 2,
@@ -60,12 +60,6 @@ const experiences = [
     to meet the requirements by certain deadlines.`,
     date: "6/2024 - 8/2024",
   },
-  {
-    title: "Line Server",
-    company: "Chipotle",
-    description: `Worked at the line at Chipotle Restaurant to satisfy customer needs and communicate with customer concerns.`,
-    date: "10/2018 - 4/2019",
-  },
 ];
 
-export {projects, experiences};
+export { projects, experiences };
